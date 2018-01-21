@@ -128,5 +128,7 @@ fabric.properties
 .idea/sonarlint
 
 .idea
+# Environment files
+.env
 
 # End of https://www.gitignore.io/api/node,webstorm
